@@ -1,0 +1,8 @@
+/home/arthur/work/ktr-msc-ss1/build/CMakeFiles/game.dir
+/home/arthur/work/ktr-msc-ss1/build/CMakeFiles/ktr-msc-ss1.dir
+/home/arthur/work/ktr-msc-ss1/build/CMakeFiles/edit_cache.dir
+/home/arthur/work/ktr-msc-ss1/build/CMakeFiles/rebuild_cache.dir
+/home/arthur/work/ktr-msc-ss1/build/exceptions/CMakeFiles/gameException.dir
+/home/arthur/work/ktr-msc-ss1/build/exceptions/CMakeFiles/ktr-msc-ss1-exceptions.dir
+/home/arthur/work/ktr-msc-ss1/build/exceptions/CMakeFiles/edit_cache.dir
+/home/arthur/work/ktr-msc-ss1/build/exceptions/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g "CMakeFiles/ktr-msc-ss1.dir/main.cpp.o" -o ktr-msc-ss1  libgame.a 

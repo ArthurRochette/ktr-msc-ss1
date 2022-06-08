@@ -1,0 +1,2 @@
+/usr/bin/ar qc libgame.a CMakeFiles/game.dir/character.cpp.o CMakeFiles/game.dir/mage.cpp.o CMakeFiles/game.dir/warrior.cpp.o CMakeFiles/game.dir/movable.cpp.o
+/usr/bin/ranlib libgame.a

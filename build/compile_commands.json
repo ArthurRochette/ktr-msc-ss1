@@ -1,0 +1,57 @@
+[
+{
+  "directory": "/home/arthur/work/ktr-msc-ss1/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/game.dir/character.cpp.o -c /home/arthur/work/ktr-msc-ss1/character.cpp",
+  "file": "/home/arthur/work/ktr-msc-ss1/character.cpp"
+},
+{
+  "directory": "/home/arthur/work/ktr-msc-ss1/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/game.dir/mage.cpp.o -c /home/arthur/work/ktr-msc-ss1/mage.cpp",
+  "file": "/home/arthur/work/ktr-msc-ss1/mage.cpp"
+},
+{
+  "directory": "/home/arthur/work/ktr-msc-ss1/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/game.dir/warrior.cpp.o -c /home/arthur/work/ktr-msc-ss1/warrior.cpp",
+  "file": "/home/arthur/work/ktr-msc-ss1/warrior.cpp"
+},
+{
+  "directory": "/home/arthur/work/ktr-msc-ss1/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/game.dir/movable.cpp.o -c /home/arthur/work/ktr-msc-ss1/movable.cpp",
+  "file": "/home/arthur/work/ktr-msc-ss1/movable.cpp"
+},
+{
+  "directory": "/home/arthur/work/ktr-msc-ss1/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/ktr-msc-ss1.dir/main.cpp.o -c /home/arthur/work/ktr-msc-ss1/main.cpp",
+  "file": "/home/arthur/work/ktr-msc-ss1/main.cpp"
+},
+{
+  "directory": "/home/arthur/work/ktr-msc-ss1/build/exceptions",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/gameException.dir/character.cpp.o -c /home/arthur/work/ktr-msc-ss1/exceptions/character.cpp",
+  "file": "/home/arthur/work/ktr-msc-ss1/exceptions/character.cpp"
+},
+{
+  "directory": "/home/arthur/work/ktr-msc-ss1/build/exceptions",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/gameException.dir/mage.cpp.o -c /home/arthur/work/ktr-msc-ss1/exceptions/mage.cpp",
+  "file": "/home/arthur/work/ktr-msc-ss1/exceptions/mage.cpp"
+},
+{
+  "directory": "/home/arthur/work/ktr-msc-ss1/build/exceptions",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/gameException.dir/warrior.cpp.o -c /home/arthur/work/ktr-msc-ss1/exceptions/warrior.cpp",
+  "file": "/home/arthur/work/ktr-msc-ss1/exceptions/warrior.cpp"
+},
+{
+  "directory": "/home/arthur/work/ktr-msc-ss1/build/exceptions",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/gameException.dir/movable.cpp.o -c /home/arthur/work/ktr-msc-ss1/exceptions/movable.cpp",
+  "file": "/home/arthur/work/ktr-msc-ss1/exceptions/movable.cpp"
+},
+{
+  "directory": "/home/arthur/work/ktr-msc-ss1/build/exceptions",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/gameException.dir/weaponException.cpp.o -c /home/arthur/work/ktr-msc-ss1/exceptions/weaponException.cpp",
+  "file": "/home/arthur/work/ktr-msc-ss1/exceptions/weaponException.cpp"
+},
+{
+  "directory": "/home/arthur/work/ktr-msc-ss1/build/exceptions",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/ktr-msc-ss1-exceptions.dir/main.cpp.o -c /home/arthur/work/ktr-msc-ss1/exceptions/main.cpp",
+  "file": "/home/arthur/work/ktr-msc-ss1/exceptions/main.cpp"
+}
+]

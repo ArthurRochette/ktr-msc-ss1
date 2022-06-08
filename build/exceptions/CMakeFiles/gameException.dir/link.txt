@@ -1,0 +1,2 @@
+/usr/bin/ar qc libgameException.a CMakeFiles/gameException.dir/character.cpp.o CMakeFiles/gameException.dir/mage.cpp.o CMakeFiles/gameException.dir/warrior.cpp.o CMakeFiles/gameException.dir/movable.cpp.o CMakeFiles/gameException.dir/weaponException.cpp.o
+/usr/bin/ranlib libgameException.a

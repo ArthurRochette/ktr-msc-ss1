@@ -1,0 +1,120 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						2
+					]
+				},
+				{
+					"build" : "exceptions",
+					"jsonFile" : "directory-exceptions-Debug-eb9249e08dce2438b477.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "exceptions",
+					"targetIndexes" : 
+					[
+						1,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ktr-msc-ss1",
+					"targetIndexes" : 
+					[
+						0,
+						2
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "ktr-msc-ss1-exceptions",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "game::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-game-Debug-78e09c313879cf7b9d4b.json",
+					"name" : "game",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "gameException::@700f973e09830aaf1ab5",
+					"jsonFile" : "target-gameException-Debug-1d449ef5426e03ff45d6.json",
+					"name" : "gameException",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ktr-msc-ss1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ktr-msc-ss1-Debug-1a280f4a350adf1f84d4.json",
+					"name" : "ktr-msc-ss1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "ktr-msc-ss1-exceptions::@700f973e09830aaf1ab5",
+					"jsonFile" : "target-ktr-msc-ss1-exceptions-Debug-ec8f7332b1c5a62d512d.json",
+					"name" : "ktr-msc-ss1-exceptions",
+					"projectIndex" : 1
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/arthur/work/ktr-msc-ss1/build",
+		"source" : "/home/arthur/work/ktr-msc-ss1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
